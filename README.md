@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 Создай файл `.env`:
 ```env
-BOT_TOKEN=your_telegram_bot_token_here
+BOT_TOKEN=TOKEN
 DATABASE_URL=postgres://user:password@localhost:5432/anime_bot
 ```
 
