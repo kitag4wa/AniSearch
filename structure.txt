@@ -1,0 +1,18 @@
+ANIME_BUDDY_SEARCH/
+├── db/
+│   ├── models/
+│   │   └── users.py         
+│   └── db.py                 
+│   
+├── handlers/
+│   └── start.py              
+│
+├── keyboards/                
+│
+├── middlewares/             
+│
+├── utils/
+│   └── anime_search.py       
+│         
+├── requirements.txt         
+└── main.py
