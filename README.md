@@ -25,7 +25,7 @@ Telegram-бот для поиска аниме по скриншотам. Отп
 
 1. **Клонируем репозиторий**
 ```bash
-git clone https://github.com/yourusername/anime-search-bot.git
+git clone https://github.com/kitag4wa/anime-search-bot.git
 cd anime-search-bot
 ```
 
